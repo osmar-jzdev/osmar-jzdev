@@ -53,7 +53,7 @@ I'm a Software Engineer passionate about this crazy tech world, currently learni
 <img align="left" alt="" height="100px" style="padding-right:10px" src="assets/android_apps/MovieListApp4.png"  />
 <img align="left" alt="" height="100px" style="padding-right:10px" src="assets/android_apps/BudgetWiseApp0.png"  /></p>
 
-<br /><br />
+<br /><br /><br /><br />
 <p>- iOS Apps developed using: UIKit components (navigations, scroll views, table views, ...), data persistence like Core Data, dependency managers (CocoaPods, Carthage and Swift Package Manager), Firebase authentication, manage network connections/resources, manage native hardware (camera, gps) and SwiftUI</p>
 
 
@@ -61,14 +61,14 @@ I'm a Software Engineer passionate about this crazy tech world, currently learni
 <img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/MovieNightCenterApp1.png"  />
 <img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/MapsAndGps0.png"  />
 <img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/MapsAndGps1.png"  />
-<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/LoginGoogle0.png"  />
-<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/LoginGoogle1.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/loginGoogle0.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/loginGoogle1.png"  />
 <img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/TodoApp0.png"  />
 <img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/TodoApp1.png"  />
 <img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/TodoApp2.png"  />
 <img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/BudgetWiseApp0.png"  /></p>
 
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 
 #
 
