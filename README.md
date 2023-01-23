@@ -58,10 +58,10 @@ I'm a Software Engineer passionate about this crazy tech world, currently learni
 
 
 <p><img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/MovieNightCenterApp0.png"  />
-<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/MovieNightCenterApp1.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/MovieNightCenter1.png"  />
 <img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/MapsAndGps0.png"  />
 <img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/MapsAndGps1.png"  />
-<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/loginGoogle0.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/LoginGoogle0.png"  />
 <img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/loginGoogle1.png"  />
 <img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/TodoApp0.png"  />
 <img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/TodoApp1.png"  />
