@@ -36,35 +36,35 @@ I'm a Software Engineer passionate about this crazy tech world, currently learni
 
 ### Currently working on
 
-*Android Apps developed using: Android Views (recyclers, cards, scrolls, ...), navigation components, fragments, data persistence like ROOM, manage network connections/resources, Firebase authetication, manage native hardware (camera, gps) and Jetpack Compose.
+<p>*Android Apps developed using: Android Views (recyclers, cards, scrolls, ...), navigation components, fragments, data persistence like ROOM, manage network connections/resources, Firebase authetication, manage native hardware (camera, gps) and Jetpack Compose.</p>
 <br />
 
-<img align="left" alt="" height="70px" style="padding-right:10px" src="assets/android_apps/OAuth0.png"  />
-<img align="left" alt="" height="70px" style="padding-right:10px" src="assets/android_apps/OAuth1.png"  />
-<img align="left" alt="" height="70px" style="padding-right:10px" src="assets/android_apps/MaterialDesignApp0.png"  />
-<img align="left" alt="" height="70px" style="padding-right:10px" src="assets/android_apps/MaterialDesignApp1.png"  />
-<img align="left" alt="" height="70px" style="padding-right:10px" src="assets/android_apps/MovieListApp0.png"  />
-<img align="left" alt="" height="70px" style="padding-right:10px" src="assets/android_apps/MovieListApp1.png"  />
-<img align="left" alt="" height="70px" style="padding-right:10px" src="assets/android_apps/MovieListApp2.png"  />
-<img align="left" alt="" height="70px" style="padding-right:10px" src="assets/android_apps/MovieListApp3.png"  />
-<img align="left" alt="" height="70px" style="padding-right:10px" src="assets/android_apps/MovieListApp4.png"  />
-<img align="left" alt="" height="70px" style="padding-right:10px" src="assets/android_apps/BudgetWiseApp0.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/android_apps/OAuth0.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/android_apps/OAuth1.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/android_apps/MaterialDesignApp0.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/android_apps/MaterialDesignApp1.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/android_apps/MovieListApp0.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/android_apps/MovieListApp1.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/android_apps/MovieListApp2.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/android_apps/MovieListApp3.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/android_apps/MovieListApp4.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/android_apps/BudgetWiseApp0.png"  />
 
 <br /> 
-*iOS Apps developed using: UIKit components (navigations, scroll views, table views, ...), data persistence like Core Data, dependency managers (CocoaPods, Carthage and Swift Package Manager), Firebase authentication, manage network connections/resources, manage native hardware (camera, gps) and SwiftUI  
+<p>*iOS Apps developed using: UIKit components (navigations, scroll views, table views, ...), data persistence like Core Data, dependency managers (CocoaPods, Carthage and Swift Package Manager), Firebase authentication, manage network connections/resources, manage native hardware (camera, gps) and SwiftUI</p>
 
 <br />
 
-<img align="left" alt="" height="60px" style="padding-right:10px" src="assets/ios_apps/MovieNightCenterApp0.png"  />
-<img align="left" alt="" height="60px" style="padding-right:10px" src="assets/ios_apps/MovieNightCenterApp1.png"  />
-<img align="left" alt="" height="60px" style="padding-right:10px" src="assets/ios_apps/MapsAndGps0.png"  />
-<img align="left" alt="" height="60px" style="padding-right:10px" src="assets/ios_apps/MapsAndGps1.png"  />
-<img align="left" alt="" height="60px" style="padding-right:10px" src="assets/ios_apps/LoginGoogle0.png"  />
-<img align="left" alt="" height="60px" style="padding-right:10px" src="assets/ios_apps/LoginGoogle1.png"  />
-<img align="left" alt="" height="60px" style="padding-right:10px" src="assets/ios_apps/TodoApp0.png"  />
-<img align="left" alt="" height="60px" style="padding-right:10px" src="assets/ios_apps/TodoApp1.png"  />
-<img align="left" alt="" height="60px" style="padding-right:10px" src="assets/ios_apps/TodoApp2.png"  />
-<img align="left" alt="" height="60px" style="padding-right:10px" src="assets/ios_apps/BudgetWiseApp0.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/MovieNightCenterApp0.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/MovieNightCenterApp1.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/MapsAndGps0.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/MapsAndGps1.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/LoginGoogle0.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/LoginGoogle1.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/TodoApp0.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/TodoApp1.png"  />
+<img align="left" alt="" height="100px" style="padding-right:10px" src="assets/ios_apps/TodoApp2.png"  />
+<img align="left" alt="" height="10 0px" style="padding-right:10px" src="assets/ios_apps/BudgetWiseApp0.png"  />
 
 <br />
 
